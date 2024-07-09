@@ -19,20 +19,20 @@ Kudy Cats is a collection of 10,000 cute and diverse cat NFTs on the Internet Co
 
 # How to Mint
 
-- To mint a Kudy Cat, you need to have an Internet Computer wallet, such as [Stoic Wallet] or [Plug Wallet].
-- You also need to have some ICP tokens, the native currency of the Internet Computer, which you can buy from [Coinbase], [Binance], or other exchanges.
+- To mint a Kudy Cat, you need to have an Internet Computer wallet, such as Stoic Wallet or Plug Wallet.
+- You also need to have some ICP tokens, the native currency of the Internet Computer, which you can buy from Coinbase, Binance, or other exchanges.
 - Once you have your wallet and your ICP tokens, you can visit our website and connect your wallet to the Kudy Cats canister.
 - You can then choose how many Kudy Cats you want to mint (up to 20 per transaction) and pay the minting fee in ICP.
-- You will receive your Kudy Cat NFTs in your wallet, and you can view them on our website or on [DAB], the NFT explorer for the Internet Computer.
+- You will receive your Kudy Cat NFTs in your wallet, and you can view them on our website or on icscan.io/nft, the NFT explorer for the Internet Computer.
 
 # How to Use
 
-- You can use your Kudy Cat NFTs as digital collectibles, artworks, or avatars. You can also display them on your social media profiles, such as [Twitter] or [Discord].
+- You can use your Kudy Cat NFTs as digital collectibles, artworks, or avatars. You can also display them on your social media profiles, such as Twitter or Discord.
 - You can also trade your Kudy Cat NFTs with other owners on our secondary marketplace, where you can set your own prices and negotiate with buyers.
-- You can also transfer your Kudy Cat NFTs to other blockchains, such as Ethereum and Polygon, using the IC Bridge protocol. You can find the instructions on how to do that on our website or on the [IC Bridge] website.
+- You can also transfer your Kudy Cat NFTs to other blockchains, such as Ethereum and Polygon, using the IC Bridge protocol. You can find the instructions on how to do that on our website.
 - You can also play with your Kudy Cat NFTs in our upcoming game, where you can level up your cats, earn rewards, and compete with other players. Stay tuned for more updates on our game development.
 
 # Contact
 
-- If you have any questions, feedback, or suggestions, you can contact us through our [Twitter: @MikailuN] or [Discord:mikailunadro] accounts. You can also join our community and chat with other Kudy Cat owners and fans.
+- If you have any questions, feedback, or suggestions, you can contact us through our Twitter: @MikailuN or Discord:mikailunadro accounts. You can also join our community and chat with other Kudy Cat owners and fans.
 - We hope you enjoy your Kudy Cats and have fun with them. Thank you for your support and interest in our collection. 😊
